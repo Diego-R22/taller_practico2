@@ -1,6 +1,6 @@
 # flutter_application_3
 
-A new Flutter project.
+Ejercico del taller 3 en el cual se toco temas de child and children.
 
 ## Getting Started
 
